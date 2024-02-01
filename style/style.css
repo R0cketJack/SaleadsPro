@@ -54,7 +54,7 @@ body {
 .header {
     display: flex;
     flex-direction: column;
-    background-image: url(/image/TOPBG.png);
+    background-image: url(../image/TOPBG.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -63,21 +63,21 @@ body {
 }
 
 .header_corner1 {
-    background: url(/image/headercorner.svg) no-repeat;
+    background: url(../image/headercorner.svg) no-repeat;
     width: 100%;
     height: 200px;
     background-position-x: -15px;
 }
 
 .header_top {
-    /* background: url(/image/headertop.svg) repeat-x; */
+    /* background: url(../image/headertop.svg) repeat-x; */
     /* width: 100%;
     height: 350px; */
     /* background-position-y: -130px; */
 }
 
 .bg_car {
-    background: url(/image/car.png) no-repeat;
+    background: url(../image/car.png) no-repeat;
     /* width: calc( 50% - 50px ); */
     width: 820px;
     height: 900px;
@@ -89,7 +89,7 @@ body {
 }
 
 .bg_woman {
-    background: url(/image/woman.png) no-repeat;
+    background: url(../image/woman.png) no-repeat;
     /* width: calc( 50% - 100px ); */
 
     width: 1037px;
@@ -123,7 +123,7 @@ body {
 }
 
 .bg_icon {
-    background: url(/image/icons.svg) no-repeat;
+    background: url(../image/icons.svg) no-repeat;
     width: 1083px;
     height: 466px;
     position: absolute;
@@ -176,7 +176,7 @@ body {
     display: block;
     width: 100%;
     height: 10px;
-    background: url(/image/active_link.svg) no-repeat;
+    background: url(../image/active_link.svg) no-repeat;
     content: ' ';
     
 }
@@ -267,7 +267,7 @@ body {
 }
 
 .decor5 {
-    background: url(/image/lightning.png);
+    background: url(../image/lightning.png);
     position: absolute;
     height: 1874px;
     width: 1874px;
@@ -278,7 +278,7 @@ body {
 }
 
 .decor6 {
-    background: url(/image/BGcenter.svg) no-repeat;
+    background: url(../image/BGcenter.svg) no-repeat;
     position: absolute;
     height: 1600px;
     width: 2560px;
@@ -418,7 +418,7 @@ body {
 /* modern skills */
 
 .modern_skills_container {
-    /* background: url(/image/BGcenter.svg); */
+    /* background: url(../image/BGcenter.svg); */
     /* background-position: center;
     background-repeat: no-repeat; */
     position: relative;
@@ -443,7 +443,7 @@ body {
 }
 
 .svg_arrow {
-    background: url(/image/arrov.svg) no-repeat;
+    background: url(../image/arrov.svg) no-repeat;
     /* height: 76px; */
     position: absolute;
     /* background-position: left; */
@@ -461,7 +461,7 @@ body {
 
 
 .computer {
-    background: url(/image/modern\ foto.png) no-repeat;
+    background: url(../image/modern\ foto.png) no-repeat;
     height: 542px;
     /* position: relative; */
     background-position: top right;
@@ -487,7 +487,7 @@ body {
 }
 
 .svg_edge_left {
-    background: url(/image/edgeleft.svg) no-repeat;
+    background: url(../image/edgeleft.svg) no-repeat;
     /* width: 100%; */
     height: 383px;
     /* margin-left: -36px; */
@@ -498,7 +498,7 @@ body {
     width: 36px;
 }
 .svg_edge_right {
-    background: url(/image/edgeright.svg) no-repeat;
+    background: url(../image/edgeright.svg) no-repeat;
     position: absolute;
     /* background-position: top right; */
     width: 36px;
@@ -566,7 +566,7 @@ body {
 
 
 .choose_block {
-    background: url(/image/BGcenter.svg);
+    background: url(../image/BGcenter.svg);
     background-size: auto;
     background-position: center;
     background-position-y: 150px;
@@ -663,7 +663,7 @@ body {
     /* background: white; */
     margin-top: 31px;
     margin-left: -15px;
-    background: url(/image/bgchoose1.jpeg) no-repeat;
+    background: url(../image/bgchoose1.jpeg) no-repeat;
     background-position: center;
     background-size: cover;
     border-top-right-radius: 10px;
@@ -727,7 +727,7 @@ body {
 }
 
 .choose_bg {
-    background-image: url(/image/Vector\ 15.png);
+    background-image: url(../image/Vector\ 15.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 10px; 
@@ -804,7 +804,7 @@ body {
 /* 2 */
 
 .container_of2 {
-    background: url(/image/lightitman.png) no-repeat;
+    background: url(../image/lightitman.png) no-repeat;
     background-position: center;
     background-position-y: -220px;
 
@@ -816,18 +816,18 @@ body {
     /* display: flex;
     flex-direction: column;
     justify-content: space-between; */
-    background: url(/image/BGcenter.svg);
+    background: url(../image/BGcenter.svg);
     background-size: auto;
     background-position: center;
 }
 
 .it_future_man {
-    background: url(/image/itman.png) no-repeat;
+    background: url(../image/itman.png) no-repeat;
     background-position: center;
 }
 
 .it_future_light {
-    /* background: url(/image/lightitman.png); */
+    /* background: url(../image/lightitman.png); */
 }
 
 
@@ -843,7 +843,7 @@ body {
 }
 
 .img_it_future {
-    /* background: url(/image/it_future_man.png); */
+    /* background: url(../image/it_future_man.png); */
     
     background-position: center;
     width: 100%;
@@ -877,7 +877,7 @@ body {
 }
 
 .it_future_info {
-    /* background: url(/image/it_future_man2.png); */
+    /* background: url(../image/it_future_man2.png); */
     /* background-position: center; */
     display: flex;
 
@@ -1004,7 +1004,7 @@ body {
 /* slider2 */
 
 /* .slider2bg_container{
-    background: url(/image/Ellipse2.svg) no-repeat;
+    background: url(../image/Ellipse2.svg) no-repeat;
     background-position: left;
     background-position-x: -700px;
     background-position-y: -210px; */
@@ -1017,7 +1017,7 @@ body {
 
 
 .decor1{
-    background: url(/image/Ellipse2.svg) no-repeat;
+    background: url(../image/Ellipse2.svg) no-repeat;
     height: 1874px;
     width: 2052px;
     position: absolute;
@@ -1030,7 +1030,7 @@ body {
 }
 .decor2 {
 
-    background: url(/image/lightitleft.svg) no-repeat;
+    background: url(../image/lightitleft.svg) no-repeat;
     /* background-position: bottom; */
     height: 1874px;
     width: 1874px;
@@ -1044,7 +1044,7 @@ body {
 .decor3 {
     
     margin-top: 100px;
-    background: url(/image/slider2bg_2.png) no-repeat;
+    background: url(../image/slider2bg_2.png) no-repeat;
     height: 1051px;
     width: 100%;
     background-position: center;
@@ -1056,7 +1056,7 @@ body {
 }
 
 .decor4 {
-    background: url(/image/backgroundbreakit.jpg) no-repeat;
+    background: url(../image/backgroundbreakit.jpg) no-repeat;
     position: absolute;
     /* background-position: bottom; */
     height: 937px;
@@ -1072,7 +1072,7 @@ body {
 
 .slider2bg {
     /* margin-top: 350px; */
-    /* background: url(/image/slider2bg_2.png) no-repeat; */
+    /* background: url(../image/slider2bg_2.png) no-repeat; */
     /* height: 1051px; */
     /* position: relative; */
     
@@ -1100,7 +1100,7 @@ body {
 }
 
 .break_in_container_light {
-    /* background: url(/image/lightitleft.png) no-repeat; */
+    /* background: url(../image/lightitleft.png) no-repeat; */
     background-position: left;
     background-position-y: -400px;
     background-position-x: -600px;
@@ -1108,7 +1108,7 @@ body {
 }
 
 .break_in_container_light_comp {
-    /* background: url(/image/computerlight.png) no-repeat; */
+    /* background: url(../image/computerlight.png) no-repeat; */
     padding-top:250px;
     background-position-x: 620px;
     background-position-y: -200px;
@@ -1220,14 +1220,14 @@ body {
 }
 
 .backgrnd_footer {
-    background-image: url(/image/backgrbdfooter.png);
+    background-image: url(../image/backgrbdfooter.png);
     background-size: cover;
     
     
 }
 
 .backgrnd_footer_bot {
-    background-image: url(/image/footerbot.svg);
+    background-image: url(../image/footerbot.svg);
     background-position: bottom;
     background-repeat: repeat-x;
     
@@ -1434,7 +1434,7 @@ body {
 
 
     .header_corner1 {
-        /* background: url(/image/headercorner.svg) no-repeat; */
+        /* background: url(../image/headercorner.svg) no-repeat; */
         /* width: 100%;
         height: 200px; */
         background-position-x: -15px;
@@ -1568,7 +1568,7 @@ body {
         background: white;
         margin-top: 20px;
         margin-left: -10px;
-        background: url(/image/bgchoose1.jpeg) no-repeat;
+        background: url(../image/bgchoose1.jpeg) no-repeat;
         background-size: cover;
         background-position: center;
     }
@@ -1719,7 +1719,7 @@ body {
     }
     
     .it_future_man {
-        background: url(/image/mobileimg/itmanmobile.png) no-repeat;
+        background: url(../image/mobileimg/itmanmobile.png) no-repeat;
         background-position: center;
         /* background-position-x: -220px; */
         background-position-y: -100px ;
@@ -1864,7 +1864,7 @@ body {
     }
 
     .decor4 {
-        background: url(/image/backgroundbreakit.jpg) no-repeat;
+        background: url(../image/backgroundbreakit.jpg) no-repeat;
         background-size: 725px;
         position: absolute;
         bottom: -530px;
@@ -1930,7 +1930,7 @@ body {
     }
 
     /* .backgrnd_footer_bot {
-        background: url(/image/mobileimg/footerbotmobile.svg) no-repeat;
+        background: url(../image/mobileimg/footerbotmobile.svg) no-repeat;
         background-position: bottom;
         
     } */
@@ -1974,7 +1974,7 @@ body {
     
 
     .svg_edge_left {
-        background: url(/image/mobileimg/edgetopmob.svg) repeat-x;
+        background: url(../image/mobileimg/edgetopmob.svg) repeat-x;
         margin-top: 0px;
         margin-left: 0px;
         height: 29px;
@@ -1984,7 +1984,7 @@ body {
         left: 0;
     }
     .svg_edge_right {
-        background: url(/image/mobileimg/edgebotmob.svg) repeat-x;
+        background: url(../image/mobileimg/edgebotmob.svg) repeat-x;
         position: absolute;
         background-position: bottom;
         width: 100%;
@@ -1997,7 +1997,7 @@ body {
     }
 
     .decor5 {
-        background: url(/image/mobileimg/lightningmobile.svg) no-repeat;
+        background: url(../image/mobileimg/lightningmobile.svg) no-repeat;
         position: absolute;
         background-position: center;
         height: 148px;
@@ -2149,7 +2149,7 @@ body {
         /* background: white; */
         margin-top: 31px;
         margin-left: -15px;
-        background: url(/image/bgchoose1.jpeg) no-repeat;
+        background: url(../image/bgchoose1.jpeg) no-repeat;
         background-position: center;
         background-size: cover;
         
@@ -2218,7 +2218,7 @@ body {
     }
     
     .choose_bg {
-        background-image: url(/image/Vector\ 15.png);
+        background-image: url(../image/Vector\ 15.png);
         background-size: cover;
         background-repeat: no-repeat;
         width: 10px; 
@@ -2365,7 +2365,7 @@ body {
 
     /* .header_corner2{
         display: block;
-        background: url(/image/headercorner.svg) no-repeat;
+        background: url(../image/headercorner.svg) no-repeat;
         width: 100%;
         height: 200px;
         background-position-x: -16px;
@@ -2608,7 +2608,7 @@ body {
         display: block;
         width: 100%;
         height: 10px;
-        background: url(/image/active_link.svg) no-repeat;
+        background: url(../image/active_link.svg) no-repeat;
         content: ' ';
     }
 
