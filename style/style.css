@@ -784,6 +784,13 @@ body {
     font-size: 24px;
     font-weight: normal;
 }
+.choose_price h4 {
+    font-size: 18px;
+    font-family: 'Alumni Sans', sans-serif;
+    font-weight: lighter;
+    color: #FA7777;
+    text-decoration: line-through;
+}
 
 
 .mobilechoose {
@@ -1104,6 +1111,7 @@ body {
 
 .break_in_menu {
     display: flex;
+    flex-wrap: wrap;
     gap: 15px;  
 }
 
@@ -1317,7 +1325,7 @@ body {
     }
 
     .header {
-        background-position-x: -690px;
+        background-position-x: 80%;
         height: 572px;
     }
     .bg_car {
@@ -1334,10 +1342,21 @@ body {
     }
 
     .bg_woman {
-        background-position-x: -200px;
-        background-size: 85%;
-        background-position-y: 300px;
+        background: url(../image/woman.png) no-repeat;
+        /* width: calc( 50% - 100px ); */
+        width: 100%;
+        /* max-width: 1900px; */
+        height: 900px;
+        position: absolute;
+        bottom: -100px;
+        /* right: calc(50% - 802px); */
+        right: 0;
+        background-size: auto 590px;
+        background-position: bottom right;
+        background-position-x: calc(100% + 259px);
     }
+
+
 
     .bg_icon {
         background-position-x: -360px;
@@ -2145,6 +2164,13 @@ body {
         font-family: 'Alumni Sans', sans-serif;
         font-size: 24px;
         font-weight: normal;
+    }
+    .choose_price h4 {
+        font-size: 18px;
+        font-family: 'Alumni Sans', sans-serif;
+        font-weight: lighter;
+        color: #FA7777;
+        text-decoration: line-through;
     }
 
     .break_in_choose {
