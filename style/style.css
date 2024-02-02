@@ -1084,6 +1084,7 @@ body {
 .break_in {
     display: block;
     color: white;
+    max-width: 664px;
 }
 .break_in_choose {
     display: flex;
